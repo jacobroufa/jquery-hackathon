@@ -1,0 +1,17 @@
+{
+  "name": "jquery-hackathon",
+  "version": "0.0.0",
+  "authors": [
+    "Jacob M. Roufa <jacob.roufa@gmail.com>"
+  ],
+  "description": "jquery maxcdn hackathon project",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "d3": "~3.4.11",
+    "topojson": "~1.6.18",
+    "tablesorter": "*"
+  }
+}

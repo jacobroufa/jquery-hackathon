@@ -1,0 +1,14 @@
+{
+    "name": "jacobroufa/jquery-hackathon-api",
+    "description": "API that serves up data from the MaxCDN jQuery Conference Hackathon.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jacob M. Roufa",
+            "email": "jacob.roufa@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "2.4.*"
+    }
+}

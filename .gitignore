@@ -1,0 +1,7 @@
+/bower_components/
+/api/vendor/
+/api/composer.lock
+/api/world-breakdown.json
+/import/access_log_201409101900.sql
+/import/access_log_201409101900.txt
+/import/jquery_access_1M.txt
